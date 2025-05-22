@@ -1,5 +1,12 @@
 <style>
 
+/* ======================
+SOURCE: https://github.com/Leon2332/SVG-Source-standalone-/blob/main/Cheetah.svg
+AUTHOR: Leon (https://github.com/Leon2332)
+CLIENT: https://www.naankusecollection.com/
+====================== */
+
+  
   .custom_svg_cheetah {
     fill: #B3A49130;
   }
