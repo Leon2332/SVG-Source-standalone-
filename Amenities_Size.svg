@@ -10,6 +10,7 @@
 .cls-1 {
   fill: none;
   stroke-width: 15px;
+  stroke: #424462;
   }
   
 </style>
